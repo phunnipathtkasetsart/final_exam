@@ -28,6 +28,8 @@ This is my final exam in the course Computer Programming-I about design and impl
 
 ## Sample Output
 <img width="524" height="534" alt="final" src="https://github.com/user-attachments/assets/a046577a-8422-4001-be62-9bc0abbd5998" />
+
+
 Including: 
 - 3 persons
 - 2 orders
