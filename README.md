@@ -36,7 +36,7 @@ Including:
 
 ##  Running the file
 
-To run the order system, execute `main.py`:
+To run the order system, execute `oop.py`:
 
 ```bash
-python main.py
+python oop.py
